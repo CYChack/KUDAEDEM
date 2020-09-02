@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ksc\Desktop\Новая папка\KUDAEDEM\KUDAMCHIM\KUDAMCHIM\main.cpp(2,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  KUDAMCHIM.vcxproj -> C:\Users\ksc\Desktop\Новая папка\KUDAEDEM\KUDAMCHIM\Debug\KUDAMCHIM.exe
